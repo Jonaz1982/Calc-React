@@ -1,12 +1,13 @@
+// importar el componente
 import React from 'react'
 import ReactDOM from 'react-dom'
-// importar el componente
+import App from './App'
 
 //utilizar el componente
 
 
 ReactDOM.render(
- <h1>Calculadora</h1>,
+  <App />,
   document.getElementById('root')
 )
 
