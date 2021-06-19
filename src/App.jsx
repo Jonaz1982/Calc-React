@@ -1,6 +1,6 @@
 // importacion
 import React from 'react'
-
+import './App.css'
 
 // generacion de la funcion componentes
 // Funcion fecha oArrow Fuction
