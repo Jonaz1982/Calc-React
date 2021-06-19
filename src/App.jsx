@@ -10,8 +10,7 @@ const App = () => {
     // lo que ejecuta la funcion
     return (
     <main className ='react-calculator' >
-        <div className= "result">
-        </div>
+        
         <div className= "numbers">
             <button>1</button>
             <button>2</button>
