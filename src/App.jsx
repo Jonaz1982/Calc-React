@@ -1,4 +1,5 @@
 // importacion
+import Result from './components/Result'
 import React from 'react'
 import './App.css'
 
@@ -10,7 +11,7 @@ const App = () => {
     // lo que ejecuta la funcion
     return (
     <main className ='react-calculator' >
-        
+        < Result />
         <div className= "numbers">
             <button>1</button>
             <button>2</button>
